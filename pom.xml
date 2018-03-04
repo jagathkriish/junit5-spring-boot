@@ -97,9 +97,9 @@
 						<!-- <includeTags>fast</includeTags> -->
 						<excludeTags>slow</excludeTags>
 						<!--
-						<configurationParameters>
+						 <configurationParameters>
 							junit.jupiter.conditions.deactivate = *
-						</configurationParameters>
+						 </configurationParameters>
 						-->
 					</properties>
 				</configuration>
